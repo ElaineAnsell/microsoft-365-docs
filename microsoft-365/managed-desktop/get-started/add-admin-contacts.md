@@ -33,6 +33,7 @@ Apps | Troubleshooting App Packaging
 Devices | Device health, troubleshooting with Microsoft Managed Desktop devices
 Security | Troubleshooting security issues with Microsoft Managed Desktop devices
 Other | For issues not covered by other areas
+IT Helpdesk | For Support to transfer end user issues not covered by Micrsofot Managed Desktop 
 
 Whoever you choose for these contacts needs to have the knowledge and authority to make decisions for your Microsoft Managed Desktop environment. When you onboard your Microsoft Managed Desktop environment, you’re prompted to add contacts for your local Helpdesk and Security. 
 
