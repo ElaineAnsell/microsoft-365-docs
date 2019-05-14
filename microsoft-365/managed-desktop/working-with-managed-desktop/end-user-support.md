@@ -24,7 +24,7 @@ The preferred method for providing support to your users is **Get Help**, an eas
 This is an application that’s installed on all Microsoft Managed Desktop devices and is pinned to the task bar. 
 
 - End users can request a call back to a provided phone number, or chat online with a service rep.
-- Requests that fall outside of Microsoft Managed Desktop support scope are redirected to the local IT helpdesk via phone call.  
+- Requests that fall outside of Microsoft Managed Desktop support scope are redirected to the local IT helpdesk via phone call.  Make sure you have your local IT helpdesk contact information entered in the Microsoft Managed Desktop admin portal (guidance here: (https://docs.microsoft.com/en-us/microsoft-365/managed-desktop/get-started/add-admin-contacts)).
 
 ## Phone support
 
