@@ -70,9 +70,9 @@ You have at least one conditional access policy that targets all users. Reset th
 Make sure that any conditional access policies you have exclude the **Modern Workplace Service Accounts** Azure AD group. For steps, see [Adjust conditional access](https://docs.microsoft.com/microsoft-365/managed-desktop/get-started/conditional-access). The **Modern Workplace Service Accounts** Azure AD group is a dynamic group that we create for the service when you enroll. You'll have to come back to exclude this group after enrollment. For more about these service accounts, see [Standard operating procedures](../service-description/operations-and-monitoring.md#standard-operating-procedures).
 
 
-### Device Compliance policies
+### Device compliance policies
 
-Intune Device Compliance policies in your Azure AD organization must not target any Microsoft Managed Desktop users.
+Intune Device compliance policies in your Azure AD organization must not target any Microsoft Managed Desktop users.
 
 **Not ready**
 
@@ -84,9 +84,9 @@ Make sure that any compliance policies you have don't include any Microsoft Mana
 
 
 
-### Device Configuration policies
+### Device configuration policies
 
-Intune Device Configuration policies in your Azure AD organization must not target any Microsoft Manage Desktop devices or users.
+Intune Device configuration policies in your Azure AD organization must not target any Microsoft Manage Desktop devices or users.
 
 **Not ready**
 
